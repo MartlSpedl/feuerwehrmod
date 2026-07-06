@@ -1,0 +1,13 @@
+{
+  "itemGroup.feuerwehrmod": "Feuerwehr Mod",
+
+  "feuerwehrmod.training.stage.theorie": "Theorie",
+  "feuerwehrmod.training.stage.loeschuebung": "Löschübung",
+  "feuerwehrmod.training.stage.rettungsuebung": "Rettungsübung",
+  "feuerwehrmod.training.stage.abschlusspruefung": "Abschlussprüfung",
+
+  "feuerwehrmod.message.training_complete": "Du hast die Feuerwehr-Ausbildung erfolgreich abgeschlossen!",
+  "feuerwehrmod.message.mission_alert": "§c§lEinsatzalarm!§r Ein neuer Einsatz wurde gemeldet.",
+  "feuerwehrmod.message.mission_success": "§aEinsatz erfolgreich abgeschlossen!",
+  "feuerwehrmod.message.mission_failed": "§cEinsatz nicht rechtzeitig geschafft."
+}
