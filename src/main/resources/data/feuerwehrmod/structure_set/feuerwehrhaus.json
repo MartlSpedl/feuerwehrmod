@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "feuerwehrmod:feuerwehrhaus",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 8,
+    "salt": 987654321,
+    "frequency_reduction_method": "default",
+    "frequency": 1.0,
+    "locate_offset": [0, 0, 0]
+  }
+}
